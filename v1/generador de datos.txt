@@ -1,0 +1,83 @@
+Participantes
+	php
+		- multicodecl - https://github.com/multicodecl
+		- Hur0nZ - https://github.com/Hur0nZ
+		- adoocs - https://github.com/adoocs
+		- arkeber-23 - https://github.com/arkeber-23
+	docs
+		- multicodecl - https://github.com/multicodecl
+		- Hur0nZ - https://github.com/Hur0nZ
+		- adoocs - https://github.com/adoocs
+		- arkeber-23 - https://github.com/arkeber-23
+	
+	sql
+		- multicodecl - https://github.com/multicodecl
+		- Hur0nZ - https://github.com/Hur0nZ
+		- adoocs - https://github.com/adoocs
+		- arkeber-23 - https://github.com/arkeber-23
+
+------------------------------------------------------------
+
+Excel 23-07-2023
+	Luis - https://github.com/multicodecl
+	Felipe - https://github.com/Hur0nZ
+	Adoo - https://github.com/adoocs
+	Sanito - https://github.com/arkeber-23/
+	
+------------------------------------------------------------
+
+Lenguajes
+	PHP, CSS, HTML, JavaScript
+
+Base de Datos
+	MySQL
+
+Idea: 
+
+	Crear un generador de datos de manera dinamica que permita descargar los datos en diferentes tipos de archivos.
+	EJ: json, xml, sql (mysql, sqlserver, oracle), entre otros
+	
+	Como funcionar?
+		Pagina web que permita a traves de formularios manipular variables de datos con rangos, dinamicos entre otros.
+		Ej:
+			id (secuencial, aleatorio(numeros o letras), alfanumericos)
+			fecha ("DD/MM/YYYY h:m:s", numeros)   "24/07/2023 00:13:56" / 1514242627625
+			nombres/apellidos (textos planos) / (json, xml, mysql / nosotros para manipular datos)
+			numeros telefono (codigo pais, largo numeros(aleatorio)) / +56 n/9 -´+569 1234 5678
+			fotos (base_64, url, blob)
+			activo o elimnado, habilitado (rango 0 y 1 aleatoria, default))
+			titulos_nombres (lista json, xml, mysql)
+	
+
+Tablas
+	Generos
+	Nombres (asociada a genero)
+	Apellidos
+	Profesiones
+	Idiomas
+	Codigo Pais
+	Tipo Monedas (CLP, EURO, USD, OTROS)
+	Continentes
+	Religiones
+	Bancos
+	Estado Empleados
+	Tipo de Usuarios
+	
+	Cursos
+	Marcas
+	Paises
+	Animales
+	Comidas
+	Colores
+	Nombre Empresas
+	
+	Plantas
+	Automoviles
+	Aviones
+	Tipo Documento
+	Tipo Contrato
+	Tipo Sociedad
+	Libros
+	Peliculas
+	Series
+	Artistas
