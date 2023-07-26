@@ -24,6 +24,7 @@ _Fin de la lista de carpetas_
 * **Hur0nZ** - *Trabajo Inicial, Desarrollador* - [Hur0nZ](https://github.com/Hur0nZ)
 * **adoocs** - *Trabajo Inicial, Desarrollador* - [adoocs](https://github.com/adoocs)
 * **arkeber-23** - *Trabajo Inicial, Desarrollador* - [arkeber-23](https://github.com/arkeber-23)
+* **DamianNeitor** - *Desarrollador* - [DamianNeitor](https://github.com/DamianNeitor)
 
 _También puedes mirar la lista de todos los [contribuyentes](https://github.com/multicodecl/mc_generados_datos-docs/contributors) quíenes han participado en este proyecto._
 
