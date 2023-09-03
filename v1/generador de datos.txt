@@ -34,11 +34,16 @@ Excel 25-07-2023
 	Adoo - https://github.com/adoocs
 	Sanito - https://github.com/arkeber-23
 	DamianNeitor - https://github.com/DamianNeitor
-		
+
+Excel 02-09-2023
+	Luis - https://github.com/multicodecl
+	Felipe - https://github.com/Hur0nZ
+	Adoo - https://github.com/adoocs
+
 ------------------------------------------------------------
 
 Lenguajes:
-	PHP, CSS, HTML, JavaScript
+	PHP (v7.4.x), CSS, HTML, JavaScript
 
 Base de Datos:
 	MySQL test / utf8_general_ci
@@ -53,6 +58,7 @@ Diseño:
 	Iconos / version svg con referencia
 		https://tablericons.com
 		https://iconoir.com
+		https://icons.getbootstrap.com
 
 Idea: 
 
@@ -167,3 +173,24 @@ Tablas
 	Series
 	Artistas
 	
+
+----------------------------------------------------------------------
+Reuniones 02-09-2023
+	Adoo
+		Pagina contacto
+		- crear mapa / santiago de chile
+		- lista contacto
+			- telefono, link de discord, correo multicode
+			- maps (Santiago de Chile) o crear algo aleatorio
+		- con bootstrap 5.2.3 idiomas respectivos / ya integrado
+	Felipe
+		- colaboracion api
+			- diseño
+		- tabla animales
+			buscar y hacer su insert respectivos
+	Luis
+		- drowdonlist idiomas / cambio nombre, cambio All rights reserved. 2 idiomas
+		- hacer documentos asociados
+		- integrar colaboracion paypal donacion
+		- agrego session menu / dashboard
+		- integrar theme oscuro y blanco
